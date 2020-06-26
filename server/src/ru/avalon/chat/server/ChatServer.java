@@ -2,7 +2,6 @@ package ru.avalon.chat.server;
 
 import ru.avalon.network.TCPConnection;
 import ru.avalon.network.TCPConnectionListener;
-
 import java.io.IOException;
 import java.net.ServerSocket;
 import java.util.ArrayList;
